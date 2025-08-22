@@ -1,2 +1,2 @@
 # FinSentiNet
-Financial Sentiment Analysis using Transformer-based NLP neural network
+Financial Sentiment Analysis Using a Transformer-Based Neural Network for NLP
