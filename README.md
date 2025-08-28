@@ -23,8 +23,8 @@ This project has 3 models, all trained on DistilBERT (transformer neural network
    - applied temperature scaling to rescale logits before softmax, adjusting confidence estimates without altering predicted labels
    - evaluated model performance before and after calibration using ECE/MCE and log loss
    - achieved lower calibration error (ECE/MCE) while maintaining identical classification accuracy, producing probability estimates that better reflect true outcomes
-<img  width="500" height="220" alt="Screenshot 2025-08-28 at 6 42 46 PM" src="https://github.com/user-attachments/assets/72c5a41c-4e6c-4374-a3a3-15f9e6d3ca4e" />
-<img width="480" height="480" alt="Screenshot 2025-08-28 at 6 19 48 PM" src="https://github.com/user-attachments/assets/fd20a544-c82c-41dd-a466-068b4ec57e03" />
+<img  width="450" height="250" alt="Screenshot 2025-08-28 at 6 42 46 PM" src="https://github.com/user-attachments/assets/72c5a41c-4e6c-4374-a3a3-15f9e6d3ca4e" />
+<img width="550" height="550" alt="Screenshot 2025-08-28 at 6 19 48 PM" src="https://github.com/user-attachments/assets/fd20a544-c82c-41dd-a466-068b4ec57e03" />
 <img width="831" height="326" alt="Screenshot 2025-08-28 at 6 20 04 PM" src="https://github.com/user-attachments/assets/7bdbf177-cf5b-435b-960b-2f4cff32803c" />
 
 
